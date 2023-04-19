@@ -6,4 +6,4 @@ Executar no endereco relativo /tinov: ```g++ q2/q2.cpp && ./a.out```
 ## Q3: Abrir arquivos
 Executar no endereco relativo /tinov: ```g++ q3/q3.cpp && ./a.out```
 ## Q4: BubbleSort
-Executar no endereco relativo /tinov: ```g++ q3/q3.cpp && ./a.out```
+Executar no endereco relativo /tinov: ```g++ q4/q4.cpp && ./a.out```
