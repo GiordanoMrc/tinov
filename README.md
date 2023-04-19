@@ -1,4 +1,6 @@
 # Teste C++:
+Todos os codigos foram implementados em ambiente Linux e no endereco relativo /tinov. Certifique-se
+que tem as ferramentas para compilacao na sua Distro antes de tentar executar.
 ## Q1: Faça um programa C para calcular o número de lâmpadas 60 watts necessárias para um determinado cômodo.
 Executar no endereco relativo /tinov: ```g++ q1/q1.cpp && ./a.out```
 ## Q2: Competicao de Salto
